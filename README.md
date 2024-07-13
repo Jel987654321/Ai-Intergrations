@@ -1,5 +1,5 @@
 # Ai-Intergrations
-Creating Ai-Intergrations for projects and software
+Creating Ai-Intergrations for projects and software and services
 
 --------------------------------------------------------------
 
