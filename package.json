@@ -1,6 +1,6 @@
 {
   "name": "Ai-Integrations",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Ai-Integrations for projects and software",
   "main": "index.js",
   "dependencies": {
@@ -10,6 +10,7 @@
     "axios": "^0.26.0",
     "jsonwebtoken": "^8.5.1",
     "dotenv": "^10.0.0"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
