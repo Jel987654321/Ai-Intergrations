@@ -1,2 +1,2 @@
 # Ai-Intergrations
-Creating Ai-Intergrations for projects 
+Creating Ai-Intergrations for projects and software
