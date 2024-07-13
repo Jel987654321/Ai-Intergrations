@@ -1,0 +1,23 @@
+{
+  "name": "Ai-Integrations",
+  "version": "1.0.0",
+  "description": "Ai-Integrations for projects and software",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "body-parser": "^1.19.0",
+    "mongoose": "^6.2.1",
+    "axios": "^0.26.0",
+    "jsonwebtoken": "^8.5.1",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "jel987654321",
+  "license": "MIT"
+}
