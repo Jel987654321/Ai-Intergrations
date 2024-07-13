@@ -1,23 +1,15 @@
 {
-  "name": "Ai-Integrations",
-  "version": "0.0.1",
-  "description": "Ai-Integrations for projects and software",
+  "name": "ai-integration",
+  "version": "1.0.0",
+  "description": "AI Integration Project",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.2",
-    "body-parser": "^1.19.0",
-    "mongoose": "^6.2.1",
-    "axios": "^0.26.0",
-    "jsonwebtoken": "^8.5.1",
-    "dotenv": "^10.0.0"
-    "lodash": "^4.17.21"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
+    "tensorflow": "^2.8.0",
+    "openai": "^0.13.0",
+    "azure-cognitiveservices-vision-computervision": "^3.2.0"
   },
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "jel987654321",
   "license": "MIT"
